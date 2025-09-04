@@ -26,7 +26,7 @@ This project implements an AI agent that learns to play Hangman using Google's C
 
 1. **Clone the repository** (or download the files):
 ```bash
-git clone <repository-url>
+git clone https://github.com/sohammandal1/Hangman-Playing-Agent
 cd hangman-ai
 ```
 
